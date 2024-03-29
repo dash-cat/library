@@ -1,0 +1,4 @@
+#settup ovn
+sudo openvpn --config openvpn.config
+##ovn
+sudo nvim openvpn.config | lolcat
